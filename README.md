@@ -1,4 +1,5 @@
 # cricket-player-performance-analysis
+Cricket analytics project comparing Kohli vs Buttler using Python and Power BI
 # T20 Player Performance Analysis – Kohli vs Buttler
 
 **Project Overview**
