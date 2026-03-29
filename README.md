@@ -2,6 +2,7 @@
 # T20 Player Performance Analysis – Kohli vs Buttler
 
 **Project Overview**
+
 This project analyzes and compares the T20 batting performance of Virat Kohli and Jos Buttler using ball-by-ball data. The goal is to identify differences in scoring patterns, phase performance, and dismissal trends.
 
 **Tools Used**
